@@ -1,0 +1,12 @@
+# pdf to image conversion
+%pip install pdf2image==1.10.0
+!apt-get install poppler-utils
+# image to text
+%pip install pytesseract==0.3.0
+# computer vision
+%pip install opencv-python
+# others
+%pip install numpy
+%pip install pandas
+%pip install Pillow
+%pip install "fastapi[all]"
